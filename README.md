@@ -139,7 +139,7 @@
   <a href="mailto:pokersr64@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/djriley64r2023?igsh=b2Rid3B4Z2lmZG92" style="margin: 0 10px;">
+  <a href="https://www.instagram.com/angellopeez64?igsh=b2Rid3B4Z2lmZG92" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
