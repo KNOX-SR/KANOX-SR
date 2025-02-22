@@ -1,88 +1,150 @@
-<h1 align="center">¡Hola Mundo! 👋 Soy Angel Antonio Lopez Coy</h1>
-<h3 align="center">También conocido como KNOX 🚀</h3>
+<h1 align="center" style="font-size: 2.5em;">Saludos! Soy Angel Antonio Lopez Coy</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Creando+el+Futuro+Digital" alt="Typing SVG" />
-</p>
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
+<p align="center" style="font-size: 1.8em; color: #00ffd5;">Soy Estudiante del Colegio Tecnologico en Informatica</p>
+<p align="center" style="font-size: 1.4em;">Estudiante de 6to Computación</p>
 
+
+<p align="center" style="font-size: 1.3em;">Trabajo bajo el nombre de KNOX</p>
+<br/> 
+<p align="center" style="font-size: 1.3em;">Mi pagina de WordPress</p>
+<p align="center" style="font-size: 1.3em;">https://angellopezkn.wordpress.com/</p>
+<br/>
+<br/>
+
+---
+
+### 👨‍💻 Sobre mí
+
+<div align="center" style="margin: 30px 0;">
+  <table>
+    <tr>
+      <td width="200px"><b>👤 Nombre:</b></td>
+      <td>Angel Antonio Lopez Coy</td>
+    </tr>
+    <tr><td colspan="2" height="10"></td></tr>
+    <tr>
+      <td><b>🎂 Edad:</b></td>
+      <td>19 años</td>
+    </tr>
+    <tr><td colspan="2" height="10"></td></tr>
+    <tr>
+      <td><b>💝 Estado Civil:</b></td>
+      <td>Soltero</td>
+    </tr>
+    <tr><td colspan="2" height="10"></td></tr>
+    <tr>
+      <td><b>🗣️ Idiomas:</b></td>
+      <td>Español</td>
+    </tr>
+    <tr><td colspan="2" height="10"></td></tr>
+    <tr>
+      <td><b>📚 Nivel Educativo:</b></td>
+      <td>Bachiller</td>
+    </tr>
+    <tr><td colspan="2" height="10"></td></tr>
+    <tr>
+      <td><b>💻 Carrera Actual:</b></td>
+      <td>Perito en Computación con Diplomado en Desarrollo de Aplicaciones Web y Mobiles</td>
+    </tr>
+  </table>
 </div>
 
+<br/>
+<br/>
+<br/>
+
 ---
 
-### 🧑‍💻 Sobre mí
+### 📊 Dominio de lenguajes familiares
 
-```javascript
-const knox = {
-    nombre: "Angel Antonio Lopez Coy",
-    alias: "KNOX",
-    código: ["Javascript", "HTML", "CSS", "Python", "Java"],
-    tecnologías: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Bootstrap", "Tailwind", "SASS"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-        },
-        bases_de_datos: ["MongoDB", "MySQL", "PostgreSQL"],
-        herramientas: ["Docker", "Git", "VSCode"]
-    }
-};
-```
+<div align="center" style="margin: 30px 0;">
+  <table cellspacing="15">
+    <tr>
+      <td align="center" width="200px" style="padding: 20px;">
+        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+        <br><br>
+        <b>Python</b>
+        <br><br>
+        ⭐⭐⭐⭐⭐⭐⭐⭐☆☆
+        <br>
+        Nivel: 8/10
+      </td>
+      <td align="center" width="200px" style="padding: 20px;">
+        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+        <br><br>
+        <b>C++</b>
+        <br><br>
+        ⭐⭐⭐⭐⭐⭐⭐⭐☆☆
+        <br>
+        Nivel: 8/10
+      </td>
+      <td align="center" width="200px" style="padding: 20px;">
+        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+        <br><br>
+        <b>HTML</b>
+        <br><br>
+        ⭐⭐⭐⭐⭐⭐⭐☆☆☆
+        <br>
+        Nivel: 7/10
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200px" style="padding: 20px;">
+        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+        <br><br>
+        <b>CSS</b>
+        <br><br>
+        ⭐⭐⭐⭐⭐⭐☆☆☆☆
+        <br>
+        Nivel: 6/10
+      </td>
+      <td align="center" width="200px" style="padding: 20px;">
+        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+        <br><br>
+        <b>C#</b>
+        <br><br>
+        ⭐⭐⭐⭐⭐⭐☆☆☆☆
+        <br>
+        Nivel: 6/10
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 📊 Mis Estadísticas
+<br/>
+<br/>
+<br/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+---
+
+### 🛠️ Lenguajes con los que Trabajo
+
+<p align="center" style="margin: 30px 0;">
+  <img height="50" style="margin: 0 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="50" style="margin: 0 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img height="50" style="margin: 0 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+  <img height="50" style="margin: 0 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+  <img height="50" style="margin: 0 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="50" style="margin: 0 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="50" style="margin: 0 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
 </p>
 
-### 🏆 Logros de GitHub
+<br/>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&column=6" />
-</p>
+### 📫 Puedes contactarme por:
 
-### 🔥 Racha de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" />
-</p>
-
-### 🛠️ Lenguajes y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,git,docker" />
-</p>
-
-### 📫 Contáctame
-
-<p align="center">
-  <a href="mailto:tu-email@example.com">
+<p align="center" style="margin: 30px 0;">
+  <a href="mailto:pokersr64@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.instagram.com/djriley64r2023?igsh=b2Rid3B4Z2lmZG92" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-### 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-</p>
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
